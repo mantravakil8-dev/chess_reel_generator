@@ -1,0 +1,7 @@
+streamlit
+chess
+cairosvg
+qrcode
+requests
+groq
+moviepy
