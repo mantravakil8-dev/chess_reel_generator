@@ -6,3 +6,4 @@ requests
 groq
 moviepy
 soundfile
+kokoro-onnx
